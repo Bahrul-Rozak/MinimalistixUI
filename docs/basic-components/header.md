@@ -31,6 +31,8 @@ sidebar_position: 1
        </div>
    </nav>
    ```
+   ![image](https://github.com/user-attachments/assets/de64cf3f-4e43-4e21-991d-d87c4491709d)
+
 2. **Centered Logo with Minimal Links:**
    ```html
    <nav class="navbar navbar-expand-lg navbar-light bg-light">
